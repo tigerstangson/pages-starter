@@ -34,4 +34,4 @@ Explore the code in this project and start making it your own, if you like doing
 Continue on to the [Resources]({{ "/resources" | prepend: site.baseurl }})
 section to learn more about GitHub Pages and other handy tools, it'll help you if you care.
 
-If you have questions, please let me know. I am glad to help! In other words, don't be shy to "embarrass" yourslef with questions. Ask away. Seriously ask.
+If you have questions, please let me know. I am glad to help! In other words, don't be shy to "embarrass" yourself with questions. Ask away. Seriously ask.
