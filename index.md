@@ -25,13 +25,13 @@ linkedin_username: {{ site.linkedin_username }}
 twitter_username: {{ site.twitter_username }}
 {% endhighlight %}
 
-That's it! You should now have a website of your own.
+That's it! You should now have a website of your own. Well if you played attention at least.
 
-https://`your github username`.github.io/pages-starter/
+To see if you did it right type this link in https://`your github username`.github.io/pages-starter/ if you didn't well then keep on tyring, lets hope you get it done before class is over.
 
-There's so much more you can do with GitHub Pages, so don't stop here.
-Explore the code in this project and start making it your own.
+There's so much more you can do with GitHub Pages, so don't stop here, unless you want to give up.
+Explore the code in this project and start making it your own, if you like doing this.
 Continue on to the [Resources]({{ "/resources" | prepend: site.baseurl }})
-section to learn more about GitHub Pages and other handy tools.
+section to learn more about GitHub Pages and other handy tools, it'll help you if you care.
 
-If you have questions, please let me know. I am glad to help!
+If you have questions, please let me know. I am glad to help! In other words, don't be shy to "embarrass" yourslef with questions. Ask away.
